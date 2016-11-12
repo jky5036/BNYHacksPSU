@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Commit this ");
         System.out.println("Commit this ");
         for (int i = 0; i < 69; i++){
-            System.out.println("Ben sucks weiner");
+            System.out.println("Ben sucks BIG weiner");
         }
 
     }
